@@ -4,7 +4,7 @@
 
 ### Freshman
 
-image: ![](johnny_boi.png)
+image: ![Profile Picture](johnny_boi.png)
 
 _Me, John Tumenbayar, on a Lime bike ride around campus._
 **Me, John Tumenbayar, on a Lime bike ride around campus.**
