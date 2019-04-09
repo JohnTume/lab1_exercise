@@ -6,7 +6,7 @@
 
 image: ![Profile Picture](johnny_boi.png)
 
-Me, **John Tumenbayar**, on a _Lime bike_ ride around campus._
+Me, **John Tumenbayar**, on a _Lime bike_ ride around campus.
 
 * John Tumenbayar
 * Favorite Foods
