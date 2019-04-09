@@ -3,7 +3,7 @@ Using the text-edit of your choice (e.g., Atom), create a new file called `PROFI
 
 In this exercise, you will create a mini profile of yourself.
 
-In your `PROFILE.md` document, format a title as header with your name as H1, University of Washington as H2, and your class standing as H3
+In your `PROFILE.md` document, format a title as header with your name as H1, University of Washington as H2, and your class standing as H3 x
 
 Next, you will insert a photo of yourself using **relative path**.
 
